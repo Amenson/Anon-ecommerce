@@ -36,10 +36,12 @@
 - **Base de données** : MySQL
 - **Outils** : Chart.js (graphiques dashboard), Africa's Talking (SMS)
 - **Développement local** : WAMP / XAMPP
-
 ## Installation (Local)
 
 1. **Cloner le repository**
    ```bash
    git clone https://github.com/Amenson/Anon-ecommerce.git
    cd Anon-ecommerce/
+   
+## site est heberger sur infity
+https://anonshop.kesug.com
