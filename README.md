@@ -45,3 +45,6 @@
    
 ## site est heberger sur infity
 https://anonshop.kesug.com
+
+## Mots de passe admin : amenson93
+login : admin
